@@ -1,4 +1,5 @@
-![Discord-nitro-banner-3](https://user-images.githubusercontent.com/100368432/155583912-b6b38596-a668-4272-9f6a-a9a3f47a64cd.jpg)
+![Başlıksız-1d](https://user-images.githubusercontent.com/100368432/155586346-9355916e-7206-46eb-81f6-014550164ea8.jpg)
+
 
                     
                                                                                                                                                              
