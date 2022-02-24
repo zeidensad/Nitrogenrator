@@ -1,6 +1,5 @@
+![Nitro](https://user-images.githubusercontent.com/100368432/155587039-cd523c83-adbe-4290-9531-0c46318987c3.jpg)
 
-                                           ![OIP](https://user-images.githubusercontent.com/100368432/155586449-96d542f5-1e6f-4f46-b896-df8d50f1b4d3.jpg)
-                                           
 
                     
                                                                                                                                                              
