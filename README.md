@@ -8,11 +8,11 @@
                                          
 
                                                                      🔒𝙀𝙭𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨
-                            Nitrogen.py vous permmetera de génerer des nitro discord a l'infini et bien + service rapide
-                            tout sera relier a vos webhook discord il vous suffit simplement d'en crée et de les mettre 
-                            quand il le demande puis chaque nitro génerer apparaitra dans le serveur ou vous aver saisis 
-                            le webhooks discord faite bien attentions que vous soyer bien seul dans le serveur ou sinon
-                            quelle qun pourrais avoir accer a vaut nitro generer depuis le cmd avec le nitrogenerator.py
+                          Nitrogen.py vous permettra  de générer des nitro discord a l'infini et bien + service rapide
+                          tout sera relier a vos webhook discord il vous suffit simplement d'en crée et de les mettre 
+                          quand il le demande puis chaque nitro générer apparaitra dans le serveur ou vous avez saisis 
+                          le webhooks discord. Faites bien attentions que vous soyez bien seul dans le serveur ou sinon
+                          quelqu'un pourrais avoir accès a vos nitro généré depuis le cmd avec le nitrogenerator.py
                                                                     
 
 
